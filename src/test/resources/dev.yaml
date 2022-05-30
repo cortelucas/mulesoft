@@ -1,0 +1,11 @@
+http: 
+  port: "8081"
+  path: "accounts"
+
+auth-salesforce:
+  consumer-key: "3MVG9FMtW0XJDLd3paflrg122CXEtKVeiwLZBlvgy_PppTAga9_lTH8PN7GrULgvbnEwdngMjeynw9dqLamok"
+  consumer-secret: "4A4EAD59D633FF530FF5CDDD6019F73DC5667ECED84E28C906A897504BD94AC5"
+  username: "corte@lucas.com"
+  password: "0612AnLu+"
+  security-token: "PcHxgIbkaKYbDKjiUcKk3Hrd"
+  token-endpoint: "https://login.salesforce.com/services/oauth2/token"
